@@ -1,0 +1,47 @@
+theme,source,polarity
+Speed / time-to-insight,S10,strength
+Speed / time-to-insight,S6,strength
+Speed / time-to-insight,S1,strength
+Speed / time-to-insight,S3,strength
+Speed / time-to-insight,S9,strength
+Speed / time-to-insight,S11,strength
+Speed / time-to-insight,S2,concern
+Native Databricks integration,S1,strength
+Native Databricks integration,S3,strength
+Native Databricks integration,S10,strength
+Native Databricks integration,S11,strength
+Native Databricks integration,S12,strength
+Native Databricks integration,S3,concern
+Governance & per-user permissions,S12,strength
+Governance & per-user permissions,S3,strength
+Governance & per-user permissions,S1,strength
+Governance & per-user permissions,S11,strength
+Answer accuracy,S11,strength
+Answer accuracy,S3,strength
+Answer accuracy,S1,strength
+Answer accuracy,S5,strength
+Answer accuracy,S6,concern
+Answer accuracy,S7,concern
+Answer accuracy,S2,concern
+Answer accuracy,S4,concern
+Answer accuracy,S5,concern
+Learning curve for business users,S11,strength
+Learning curve for business users,S10,strength
+Learning curve for business users,S1,concern
+Learning curve for business users,S2,concern
+Learning curve for business users,S9,concern
+Cost / compute (DBU) spend,S11,strength
+Cost / compute (DBU) spend,S3,concern
+Cost / compute (DBU) spend,S1,concern
+Cost / compute (DBU) spend,S5,concern
+Trust & silent wrong answers,S7,strength
+Trust & silent wrong answers,S6,concern
+Trust & silent wrong answers,S5,concern
+Trust & silent wrong answers,S7,concern
+Trust & silent wrong answers,S2,concern
+Heavy data prep required,S3,concern
+Heavy data prep required,S5,concern
+Heavy data prep required,S6,concern
+Heavy data prep required,S7,concern
+Heavy data prep required,S9,concern
+Heavy data prep required,S12,concern

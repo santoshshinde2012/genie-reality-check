@@ -1,0 +1,7 @@
+label,value,source,note
+Gartner Peer Insights rating,4.8/5,S1,Databricks AI/BI; late 2025
+Gartner willingness to recommend,94%,S1,n=167 reviews
+ToolChase independent rating,4.4/5,S3,independent review
+Vendor first-try accuracy benchmark,84.5%,S11,28-question internal suite
+Genie Code task success,77.1%,S11,vs 32.1% general-purpose agents
+General-purpose agent task success,32.1%,S11,baseline comparison

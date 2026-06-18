@@ -1,0 +1,13 @@
+code,name,type,vendor_published,url
+S1,Gartner Peer Insights — Analytics & BI (Databricks AI/BI),review_aggregate,no,https://www.databricks.com/resources/analyst-research/peer-insights-customers-choice-analytics-and-bi
+S2,G2 — Databricks reviews,review_aggregate,no,https://www.g2.com/products/databricks/reviews
+S3,ToolChase — Databricks Genie review (4.4/5),independent_review,no,https://toolchase.com/tool/databricks-genie/
+S4,Tellius — 2026 AI data-analysis agents comparison,independent_competitor,no,https://www.tellius.com/resources/blog/best-ai-data-analysis-agents-in-2026-12-platforms-compared-for-nl-to-sql-autonomous-investigation-and-governance
+S5,SunnyData — Two Weeks in Production,field_report,no,https://www.sunnydata.ai/blog/databricks-genie-code-production-review
+S6,IWConnect — BA team lessons,field_report,no,https://iwconnect.com/databricks-genie-ba-use-cases-lessons-from-our-team/
+S7,Devoteam — Cracking the Reliability Code,field_report,no,https://www.devoteam.com/expert-view/cracking-the-reliability-code-with-databricks-genie/
+S8,Medium (Obi-Eyisi) — A Double-Edged Sword,practitioner_blog,no,https://afroinfotech.medium.com/my-take-on-databricks-genie-a-double-edged-sword-for-data-professionals-fbd1d1127333
+S9,Medium (Sreedeepsinha) — Capabilities Nobody Talks About,practitioner_blog,no,https://medium.com/@sreedeepsinha/databricks-genie-the-capabilities-nobody-talks-about-c638b3c96496
+S10,Databricks — customer stories (Walmart/Virgin Atlantic/SEGA/Premier/Casas Bahia),vendor_outcomes,yes,https://www.databricks.com/blog/how-leading-companies-are-delivering-trusted-ai-powered-self-service-analytics
+S11,Databricks — Genie One / Ontology launch (Foot Locker; 84.5% benchmark),vendor,yes,https://www.databricks.com/blog/introducing-genie-one-genie-ontology-and-genie-agents
+S12,Databricks / Microsoft Learn — Genie concepts/set-up/best-practices,vendor_docs,yes,https://learn.microsoft.com/en-us/azure/databricks/genie/concepts
