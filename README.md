@@ -80,8 +80,3 @@ Practitioner sentiment (net = strengths − concerns, sorted):
 This is a transparent, reproducible reading of public discussion — **not** a statistical survey.
 Single coder, non-random corpus (n=12), no Reddit/LinkedIn, 3 of 12 sources vendor-published.
 The Perception vs. Reality chart is a conceptual device, not measured data. See `docs/methodology.md` §Constraints.
-
-## License
-
-Code: MIT (see [`LICENSE`](LICENSE)). Data and documentation: CC BY 4.0 — reuse with attribution.
-Sources verified June 2026; Databricks Genie changes frequently, so treat figures as point-in-time.
