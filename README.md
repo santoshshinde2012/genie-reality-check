@@ -80,3 +80,7 @@ Practitioner sentiment (net = strengths − concerns, sorted):
 This is a transparent, reproducible reading of public discussion — **not** a statistical survey.
 Single coder, non-random corpus (n=12), no Reddit/LinkedIn, 3 of 12 sources vendor-published.
 The Perception vs. Reality chart is a conceptual device, not measured data. See `docs/methodology.md` §Constraints.
+
+## Support
+
+[![Buy Me a Coffee](https://img.shields.io/badge/buymeacoffee-black?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/santoshshin)
